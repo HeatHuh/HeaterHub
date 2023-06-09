@@ -1,0 +1,2 @@
+local key = "KEY-BORN"
+return key
