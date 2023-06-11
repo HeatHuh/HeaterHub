@@ -1,2 +1,2 @@
-local key = "KEY-BORN"
+local key = "KEY-SECOND"
 return key
